@@ -1,0 +1,17 @@
+body {
+    background-image: url("face.jpg");
+}
+
+h1 {text-align: center; 
+	color:#800000;
+}
+
+h1 span {background-color: white; 
+}
+
+p {text-align: center; 
+	color:#800000;
+}
+
+p span {background-color: white; 
+}
