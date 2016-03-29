@@ -3,15 +3,16 @@ body {
 }
 
 h1 {text-align: center; 
-	color:#800000;
+	color:#800000; font-family: Verdana, sans-serif;
 }
 
 h1 span {background-color: white; 
 }
 
 p {text-align: center; 
-	color:#800000;
+	color:#800000; font-family: Verdana, sans-serif;
 }
 
 p span {background-color: white; 
 }
+
